@@ -205,6 +205,9 @@ body {
   width: 40px;
   cursor: pointer;
 }
+.icon-footer:hover{
+  transform: scale(1.05);
+}
 .container-icon_footer{
   display: flex;
   justify-content: center;
